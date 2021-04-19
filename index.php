@@ -17,7 +17,7 @@ session_start();
       <?php include 'pages/menu.php';?>
 	  
       <!-- Content -->
-      <div class="container my-3 mt-3 mb-3" style="height: 75vh;">
+      <div class="container my-3 mt-3 mb-3">
         <div class="row">
           <!-- Main content -->
           <div class="col-sm-12 col-md-9 col-xl-9 my-3">
